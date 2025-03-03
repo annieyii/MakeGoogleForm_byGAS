@@ -6,10 +6,10 @@ This project automates the creation of **Google Forms** using data from **Google
 1. Prepare a **Google Drive folder** and upload all required images.
 2. Create a **Google Sheet** with the following format:
 
-| Question Index | Image 1 Filename | Image 2 Filename |
-|--------------|----------------|----------------|
-| 1 | image1.jpg | image2.jpg |
-| 2 | image3.jpg | image4.jpg |
+  | Question Index | Image 1 Filename | Image 2 Filename |
+  |--------------|----------------|----------------|
+  | 1 | image1.jpg | image2.jpg |
+  | 2 | image3.jpg | image4.jpg |
 
   - Each row represents a single question.
   - The first column contains the question index.
