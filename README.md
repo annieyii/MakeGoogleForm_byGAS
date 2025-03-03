@@ -3,7 +3,7 @@
 This project automates the creation of **Google Form** using data from **Google sheets**.
 
 ## How to Use
-1. prepare a Google Drive folder and uoload all required images.
+1. prepare a Google Drive folder and upload all required images.
 2. create a Google Sheet with following format:
 
 | Question Index | Image 1 Filename | Image 2 Filename |
